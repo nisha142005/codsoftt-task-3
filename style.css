@@ -1,0 +1,75 @@
+
+    nav{
+    background-color: black;
+    color: white;
+    padding:15px;
+}
+li,h1,ul{
+    display:inline;
+}
+ul{
+    margin-left:60%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 60%;
+    padding:15px;
+}
+.Searchbar{
+    padding: 50px;
+    text-align: center;
+}
+.box{
+    display:inline-block;
+    width:200px;
+    height: 200px;
+    
+}
+.box:hover{
+    background-color: black;
+    color:white;
+
+}
+.products{
+    text-align: center;
+    display: inline;
+    
+}
+.about h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sale{
+    display: inline;
+    padding: 5px;
+    height: 400px;
+    width: 400px;
+    
+}
+.makeup{
+    
+    display: inline-block;
+    text-align: center;
+    margin-left: 8%;
+}
+.items{
+   display: inline-block;
+    padding: 5px;
+    
+}
+.links{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
